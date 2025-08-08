@@ -1,6 +1,6 @@
 # 🎓 College Event Feedback Analysis
 
-![Project Banner](images/banner.png)
+![Project Banner](assets/banner.png)
 
 ## 📌 Project Overview
 This project analyzes student feedback collected during college events to identify strengths, weaknesses, and improvement opportunities. Using **Python** and **Natural Language Processing (NLP)**, we uncover actionable insights to enhance teaching quality, technology adoption, and student engagement.
