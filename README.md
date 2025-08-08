@@ -122,7 +122,9 @@ The project was completed as part of the **Future Interns Data Science & Analyti
 📄 License
 
 This project is licensed under the MIT License – feel free to use, modify, and share.
+
 ---
+
 👤 Author
 
 Anjolaoluwa Adekomi
