@@ -120,12 +120,17 @@ The project was completed as part of the **Future Interns Data Science & Analyti
 
 ---
 📄 License
+
 This project is licensed under the MIT License – feel free to use, modify, and share.
 ---
 👤 Author
+
 Anjolaoluwa Adekomi
+
 📧 Email: [aadekomi.2201826@stu.cu.edu.ng]
+
 💼 LinkedIn: [https://linkedin.com/in/anjolaoluwa-adekomi-7b2548343/]
+
 📂 Portfolio: [https://anjolaoluwadekomiportfolio.my.canva.site/]
 
 
